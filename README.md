@@ -86,9 +86,7 @@ I made use of the basic funtions in excel as listed below to arrive at the resul
 
 I inserted a new column "Sales range" on the right side of the "year" column.
 I used the "IF" statement from the basic functions in excel to return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’ as shown below.
-# =IF(A2>$T$10,"high","low")
-
-![](Sales_data.PNG)
+# =IF(A2>$T$10,"high","low"
 
 
 
