@@ -52,22 +52,35 @@ The first thing I did was to make the headers distinct by filling with colour ba
 I went through each column to assign the right data type by clicking on the drop down under number tab.
 I aligned the data to the center by selecting "center" from alignment tab.
 On column S, I entered the required deliverable as listed below, giving one space inbetween each requirement down the column.
+
 Total Revenue
+
 Total Profit
+
 Average Revenue
+
 Average units sold
+
 Total discount given in £
+
 Total number of sales recorded.
+
 The highest profit Generated
 
 I made use of the basic funtions in excel as listed below to arrive at the results. 
 
 =SUM(G2:G701)
+
 =SUM(L2:L701)
+
 =AVERAGE(G2:G701)
+
 =AVERAGE(O2:O701)
+
 =SUM(F2:F701)
+
 =SUM(O2:O701)
+
 =MAX(L2:L701)
 
 
@@ -75,7 +88,7 @@ I inserted a new column "Sales range" on the right side of the "year" column.
 I used the "IF" statement from the basic functions in excel to return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’ as shown below.
 =IF(G2>$T$10,"high","low")
 
-![]()
+![](Sales_data.PNG)
 
 
 
