@@ -28,7 +28,11 @@ To split the employees names to first and last name and to check for duplicates 
 ![](Sheet_2.PNG)
 
 To highlight the employees whose name started with letter E on Sheet 3, 
-I selected the range B2:B21. Then clicked on conditional formatting, New rule under home tab to create a new conditional formatting rule. in the dialog box, under select a rule type section, i clicked on "use a formular to determine which cell to format" i inserted =LEFT(B2,1)="E" into "format values where  this formular is true". i went into format cells dialog box to specify the cell format and clicked OK, and then OK on the new formatting rule dialog box.
+I selected the range B2:B21. Then clicked on conditional formatting, New rule under home tab to create a new conditional formatting rule. in the dialog box, under select a rule type section, i clicked on "use a formular to determine which cell to format" i inserted =LEFT(B2,1)="E" into "format values where  this formular is true". i went into format cells dialog box to specify the cell format and clicked OK, and then OK on the new formatting rule dialog box. Finally to highlight the highest and the lowest salary, I selected the salary column, went to conditional formatting > top/bottom Rule > Top ten. In the dialog box, i changed 10 to 1 and chose "green fill with dark green text" to highlight the highest salary . I went through the same process but selected bottom 10 > typed 1 in the dialog box and chose "light red fill with dark red text" to get the lowest salary highlighted in red.
 
 ![](Sheet_3.PNG)
+
+
+
+
 
