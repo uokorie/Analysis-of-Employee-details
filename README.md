@@ -1,4 +1,4 @@
-### Excel Training
+### Table creation.
 
 
 ## Task 1
@@ -14,7 +14,7 @@ I created a table with 20 rows and 5 columns. I entered some ficticious data tha
 
 ![](Sheet_0.PNG)
 
-## Excel training Task 1b
+## Application of basic formulas and functions
 
 **In worksheet 1, Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000
 In worksheet 2, split the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
