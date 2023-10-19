@@ -12,7 +12,7 @@ I created a table with 20 rows and 5 columns. I entered some ficticious data tha
 
 ![](Sheet_0.PNG)
 
-## Task 2 Application of basic formulas and functions
+## Task 2 Data manipulation and Management.
 
 **In worksheet 1, Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000
 In worksheet 2, split the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
