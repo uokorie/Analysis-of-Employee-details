@@ -35,7 +35,7 @@ I selected the range B2:B21. Then clicked on conditional formatting, New rule un
 
 
 
-## Task 2 Application of basic formulas and Functions
+## Task 3 Application of basic formulas and Functions
 
 **Using the Sales Data, determine the following
 The total Revenue and Profit generated
