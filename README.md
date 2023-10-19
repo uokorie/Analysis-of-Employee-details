@@ -1,7 +1,7 @@
-# Rep-1
+### Excel Training
 
 
-## Excel training Task 1
+## Task 1
 
 **In worksheet 1, create a table with 20 rows of information having the fields below: 
 Employee ID
