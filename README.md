@@ -90,7 +90,7 @@ I used the "IF" statement from the basic functions in excel to return ‘High Sa
 
 ![](Sales_data2.PNG)
 
-
+From that above analysis, I can deduce that the profit generated is very low compared to the Revenue generated. This is probably because of the discounts that is over 50% of the profits generated. I recommend that the sales team should put in place some measures and strategies to eliminate/ reduce the percentage of discounts given.
 
 
 
