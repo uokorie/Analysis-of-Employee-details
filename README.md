@@ -1,7 +1,5 @@
-### Table creation.
+### Task 1  Table creation.
 
-
-## Task 1
 
 **In worksheet 1, create a table with 20 rows of information having the fields below: 
 Employee ID
@@ -14,7 +12,7 @@ I created a table with 20 rows and 5 columns. I entered some ficticious data tha
 
 ![](Sheet_0.PNG)
 
-## Application of basic formulas and functions
+## Task 2 Application of basic formulas and functions
 
 **In worksheet 1, Show only employees who are ‘Freelancers’ and highlight the ones whose salaries are above $10000
 In worksheet 2, split the employees’ full names into first name and last name. Check for duplicates and highlight if any (do not delete)
@@ -37,7 +35,7 @@ I selected the range B2:B21. Then clicked on conditional formatting, New rule un
 
 
 
-## Excel Training Task 2
+## Task 2 Application of basic formulas and Functions
 
 **Using the Sales Data, determine the following
 The total Revenue and Profit generated
